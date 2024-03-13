@@ -1,1 +1,1 @@
-Tried to build a simple woodcutting bot script for OSRS.
+Tried to build a simple woodcutting bot script for OSRS, had an issue with robot.screen.capture function on MAC OS, seemed to be a bit more user friendly with Windows. Script had trouble distinguishing the set hex colors when ran. Did have some luck changing the venue in game, often times further behind the lumbridge general store; possibly has less similar hex color ID's in that zone than in varrock.
